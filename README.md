@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently trying to learn Java
 - 🤔 I’m looking for help with Blender
-- 📫 Subscribe : https://www.youtube.com/channel/UC5n4ot4dA-AZmPUy6cORrqA
-<!--
-- ⚡ Fun fact: 
--->
+
+
+- ⚡ Fun fact 1: ![integration](https://latex.codecogs.com/svg.latex?\dpi{400}Life%20=%20\int_{birth}^{death}%20\frac{happiness}{time}%20%20d(time))
+
+- 📫 Subscribe to my channel : https://www.youtube.com/channel/UC5n4ot4dA-AZmPUy6cORrqA
+
 
 
