@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently trying to learn Java ☕
-- 💁 I’m looking for help with Blender 
+- 💁🏾 I’m looking for help with Blender 
 
 
 - 🥀 Life fact 1: ![integration](https://latex.codecogs.com/svg.latex?\dpi{400}Life%20=%20\int_{birth}^{death}%20\frac{happiness}{time}%20%20d(time))
