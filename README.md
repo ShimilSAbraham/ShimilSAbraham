@@ -1,6 +1,6 @@
 ## Welcome to my Github Page 👋
 
-[![HitCount](http://hits.dwyl.com/ShimilSAbraham/ShimilSAbraham.svg)](http://hits.dwyl.com/ShimilSAbraham/ShimilSAbraham)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shimilsabraham&label=Profile%20views&color=880eb4&style=plastic" alt="shimilsabraham" /> </p>
 
 
 - 🌱 I’m currently trying to learn Java ☕
