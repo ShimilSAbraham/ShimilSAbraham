@@ -4,8 +4,6 @@
 
 [![Shimil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShimilSAbraham&show_icons=true&theme=dark)](https://github.com/ShimilSAbraham/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&repo=Cube.CSS)](https://github.com/ShimilSAbraham/github-readme-stats)
-
 
 - 🌱 I’m currently trying to learn Vue ✌
 - 💁🏾 I’m looking for help with Blender 
@@ -20,3 +18,9 @@
 <p align="center"> <img src="https://github.com/ShimilSAbraham/Blender_Works/blob/main/shimil.png" width="50%" alt="blender-work" /> </p>
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&theme=midnight-purple&repo=Cube.CSS)](https://github.com/ShimilSAbraham/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&theme=midnight-purple&repo=JY-MEC)](https://github.com/ShimilSAbraham/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&theme=midnight-purple&repo=Vital-Essence)](https://github.com/ShimilSAbraham/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&theme=midnight-purple&repo=Color-Switcher)](https://github.com/ShimilSAbraham/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&theme=midnight-purple&repo=Blender_Works)](https://github.com/ShimilSAbraham/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&theme=midnight-purple&repo=Coding-Tutorial)](https://github.com/ShimilSAbraham/github-readme-stats)
