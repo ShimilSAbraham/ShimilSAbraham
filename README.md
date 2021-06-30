@@ -11,12 +11,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark" alt="github-readme-stats" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark&repo=Cube.CSS)](https://github.com/ShimilSAbraham/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark&repo=JY-MEC)](https://github.com/ShimilSAbraham/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark&repo=Vital-Essence)](https://github.com/ShimilSAbraham/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark&repo=Color-Switcher)](https://github.com/ShimilSAbraham/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark&repo=Blender_Works)](https://github.com/ShimilSAbraham/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark&repo=Coding-Tutorial)](https://github.com/ShimilSAbraham/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark&repo=Cube.CSS)](https://github.com/ShimilSAbraham/Cube.CSS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark&repo=JY-MEC)](https://github.com/ShimilSAbraham/JY-MEC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark&repo=Vital-Essence)](https://github.com/ShimilSAbraham/Vital-Essence)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark&repo=Color-Switcher)](https://github.com/ShimilSAbraham/Color-Switcher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark&repo=Blender_Works)](https://github.com/ShimilSAbraham/Blender_Works)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShimilSAbraham&show_icons=true&hide_border=true&theme=dark&repo=Coding-Tutorial)](https://github.com/ShimilSAbraham/Coding-Tutorial)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
