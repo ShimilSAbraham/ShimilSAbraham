@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimilsabraham&label=Profile%20views&color=880eb4&style=plastic" alt="shimilsabraham" /> </p>
 
-- 🌱 I’m currently trying to learn Vue ✌
+- 🌱 I’m currently trying to learn React ✌
 - 💁🏾 I’m looking for help with Blender 
 
 - 🥀 Life fact 1: ![integration](https://latex.codecogs.com/svg.latex?\dpi{400}Life%20=%20\int_{birth}^{death}%20\frac{happiness}{time}%20%20d(time))
