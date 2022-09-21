@@ -3,7 +3,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimilsabraham&label=Profile%20views&color=880eb4&style=plastic" alt="shimilsabraham" /> </p>
 
 - 🌱 I’m currently trying to learn React ✌
-- 💁🏾 I’m looking for help with Blender 
+- 💁🏾 I’m looking for help with Blender
+
+## Projects
+
+- [Miracle Living](https://shimil-mdl.github.io/miracle-living/templates/home.html)
+- [CS Department Website](https://cs.mec.ac.in/)
+- [Developer Portfolio](https://github.com/hhhrrrttt222111/developer-portfolio)
+- [RZume](https://github.com/hhhrrrttt222111/resume-builder)
+- [CS Department Website](https://github.com/ShimilSAbraham/Cube.CSS) 
 
 - 🥀 Life fact 1: ![integration](https://latex.codecogs.com/svg.latex?\dpi{400}Life%20=%20\int_{birth}^{death}%20\frac{happiness}{time}%20%20d(time))
 
